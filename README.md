@@ -1,8 +1,8 @@
-<img src="assets/banner.svg" alt="Chayapol Promsavana — Agentic AI Developer, Full Stack Developer, Systems Architect">
+<img src="assets/banner.svg?v=3" alt="Chayapol Promsavana — Agentic AI Developer, Full Stack Developer, Systems Architect">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg">
-  <img src="assets/contrib-light.svg" alt="Contributions in the last year">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg?v=3">
+  <img src="assets/contrib-light.svg?v=3" alt="Contributions in the last year">
 </picture>
 
 ## Chayapol Promsavana
