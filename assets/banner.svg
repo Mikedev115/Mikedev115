@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Chayapol Promsavana — Agentic AI Developer, Full Stack Developer, Systems Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080C16"/>
+      <stop offset="0.55" stop-color="#0E1524"/>
+      <stop offset="1" stop-color="#161E30"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4C8DFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4C8DFF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#4C8DFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4C8DFF" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#4C8DFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#4C8DFF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#DCE6FA"/>
+      <stop offset="1" stop-color="#8FB6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <ellipse cx="1010" cy="60" rx="430" ry="230" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="140" cy="300" rx="300" ry="150" fill="url(#glow)" opacity="0.35"/>
+
+  <rect x="-420" y="0" width="420" height="320" fill="url(#sweep)" opacity="0.22">
+    <animate attributeName="x" values="-420;1280" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="146" font-size="58" font-weight="700" fill="url(#nameFill)" letter-spacing="-0.5">
+      Chayapol Promsavana
+    </text>
+
+    <text x="80" y="204" font-size="27" font-weight="500" fill="#B9C6DA">
+      Agentic AI Developer · Full Stack Developer · Systems Architect
+    </text>
+
+    <text x="80" y="246" font-size="19" fill="#93A4BC">
+      Nan, Thailand
+    </text>
+
+    <rect x="80" y="268" width="0" height="4" rx="2" fill="#4C8DFF">
+      <animate attributeName="width" values="0;120" dur="1.4s" begin="0.3s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
