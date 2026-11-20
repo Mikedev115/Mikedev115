@@ -4,53 +4,7 @@
 
 ## Chayapol Promsavana
 
-**Build**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3772AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte 5">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Wails_2-DF0000?style=flat-square" alt="Wails 2">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-</p>
-
-**AI and agents**
-<p>
-  <img src="https://img.shields.io/badge/agentic_AI-4C8DFF?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/MCP-1F55C4?style=flat-square" alt="MCP">
-  <img src="https://img.shields.io/badge/RAG-2F79E6?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/local--first-161E30?style=flat-square" alt="Local-first">
-  <img src="https://img.shields.io/badge/OCR-2F79E6?style=flat-square" alt="OCR">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-</p>
-
-**Data and integrations**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
-  <img src="https://img.shields.io/badge/LINE_OA-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE OA">
-  <img src="https://img.shields.io/github/v/release/Mikedev115/Aetox-Harness?style=flat-square&color=4C8DFF&label=release" alt="Release">
-  <img src="https://img.shields.io/github/stars/Mikedev115/Aetox-Harness?style=flat-square&color=4C8DFF" alt="Stars">
-</p>
-
-**Ops and tooling**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
-</p>
+<img src="assets/stack.svg" alt="Stack: many languages used, these three shipped">
 
 A developer in Nan, Thailand. I build **[Aetox harness](https://mikedev115.github.io/Aetox-landing/)** — an AI agent
 for Windows — and I use it for my own work every day. That is the whole arrangement: I make the tool I need, then
