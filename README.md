@@ -4,7 +4,7 @@
 
 ## Chayapol Promsavana
 
-<img src="assets/stack.svg" alt="Stack: many languages used, these three shipped">
+<img src="assets/stack.svg?v=2" alt="Stack: many languages used, these three shipped">
 
 A developer in Nan, Thailand. I build **[Aetox harness](https://mikedev115.github.io/Aetox-landing/)** — an AI agent
 for Windows — and I use it for my own work every day. That is the whole arrangement: I make the tool I need, then

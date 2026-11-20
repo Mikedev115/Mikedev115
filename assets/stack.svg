@@ -30,10 +30,10 @@
   <text x="406" y="91" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.30">Terraform</text>
   <text x="565" y="97" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">PowerShell</text>
   <text x="747" y="96" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.27">Shell</text>
-  <text x="49" y="129" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.16">Gemini</text>
-  <text x="231" y="128" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">OpenAI</text>
-  <text x="390" y="127" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.30">Anthropic</text>
-  <text x="572" y="126" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">Ollama</text>
+  <text x="49" y="129" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.16">llama.cpp</text>
+  <text x="231" y="128" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">Function calling</text>
+  <text x="390" y="127" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.30">Embeddings</text>
+  <text x="572" y="126" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">Webhook</text>
   <text x="754" y="125" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.27">MCP</text>
   <text x="56" y="165" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.16">RAG</text>
   <text x="215" y="164" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">OCR</text>
@@ -41,12 +41,10 @@
   <text x="579" y="162" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">HTML</text>
   <text x="761" y="161" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.27">CSS</text>
   <text x="40" y="194" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.16">Git</text>
-  <text x="222" y="193" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">LINE OA</text>
-  <text x="404" y="199" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.30">Bash</text>
-  <text x="563" y="198" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">npm</text>
-  <text x="745" y="197" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.27">Node.js</text>
-  <text x="47" y="230" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.16">Figma</text>
-  <text x="229" y="229" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">JSON</text>
+  <text x="222" y="193" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.23">npm</text>
+  <text x="404" y="199" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.30">Node.js</text>
+  <text x="563" y="198" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.20">Bash</text>
+  <text x="745" y="197" font-family="Cascadia Code, JetBrains Mono, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#7FA2D6" opacity="0.27">Prompt caching</text>
   <rect x="0" y="138" width="940" height="210" fill="url(#fade)"/>
   <rect width="940" height="348" rx="18" fill="url(#spot)"/>
   <text x="46" y="40" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="3.0" fill="#3E5069" text-anchor="start">WRITTEN IN, OVER THE YEARS</text>
